@@ -68,13 +68,13 @@ Graph 1: PIRL Task Loss Graph. The graph illustrates the progress of our model i
 
 
 <p align="center">
-  <img src="https://github.com/erdincsaglamli/PIRL-ARI5004-Deep-Learning/blob/main/images/normal_resnet_scores.png" width="500">
+  <img src="https://github.com/alaeddingurel/ARI-5004-PIRL-Experiments/blob/main/images/normal_resnet_scores.png" width="500">
   
 </p>
 Graph 2: Normal ResNet-18 Fine-tuning. After 30 epochs of fine-tuning, the test set results indicate an average loss of 1.9167, corresponding to an accuracy of 30.25. The graph visually represents the convergence and performance of the model during fine-tuning.
 
 <p align="center">
-  <img src="https://github.com/erdincsaglamli/PIRL-ARI5004-Deep-Learning/blob/main/images/graph_pirl_resnet.png" width="500">
+  <img src="https://github.com/alaeddingurel/ARI-5004-PIRL-Experiments/blob/main/images/graph_pirl_resnet.png" width="500">
   
 </p>
 Graph 3: ResNet-18 + PIRL Fine-tuning. After 30 epochs of fine-tuning with the PIRL pre-trained ResNet-18 back bone, the test set results show an average loss of 1.4884, with an accuracy of
