@@ -1,0 +1,186 @@
+After epoch 0 - Test set: Average loss: 4.2062, Accuracy: 148.0/800 (18.50%)
+
+
+After epoch 0 - Train set: Average loss: 4.1801, Accuracy: 4553.0/4200 (108.40%)
+
+
+After epoch 1 - Test set: Average loss: 3.1398, Accuracy: 183.0/800 (22.88%)
+
+
+After epoch 1 - Train set: Average loss: 3.7722, Accuracy: 5901.0/4200 (140.50%)
+
+
+After epoch 2 - Test set: Average loss: 3.9102, Accuracy: 186.0/800 (23.25%)
+
+
+After epoch 2 - Train set: Average loss: 3.7342, Accuracy: 6300.0/4200 (150.00%)
+
+
+After epoch 3 - Test set: Average loss: 3.9770, Accuracy: 145.0/800 (18.12%)
+
+
+After epoch 3 - Train set: Average loss: 3.4284, Accuracy: 6644.0/4200 (158.19%)
+
+
+After epoch 4 - Test set: Average loss: 3.3493, Accuracy: 171.0/800 (21.38%)
+
+
+After epoch 4 - Train set: Average loss: 3.5521, Accuracy: 6604.0/4200 (157.24%)
+
+
+After epoch 5 - Test set: Average loss: 4.5805, Accuracy: 117.0/800 (14.62%)
+
+
+After epoch 5 - Train set: Average loss: 3.4513, Accuracy: 6548.0/4200 (155.90%)
+
+
+After epoch 6 - Test set: Average loss: 4.7746, Accuracy: 155.0/800 (19.38%)
+
+
+After epoch 6 - Train set: Average loss: 3.4077, Accuracy: 6857.0/4200 (163.26%)
+
+Epoch 00007: reducing learning rate of group 0 to 1.0000e-02.
+
+After epoch 7 - Test set: Average loss: 2.1103, Accuracy: 240.0/800 (30.00%)
+
+
+After epoch 7 - Train set: Average loss: 1.8883, Accuracy: 9376.0/4200 (223.24%)
+
+
+After epoch 8 - Test set: Average loss: 2.1302, Accuracy: 251.0/800 (31.38%)
+
+
+After epoch 8 - Train set: Average loss: 1.7658, Accuracy: 9679.0/4200 (230.45%)
+
+
+After epoch 9 - Test set: Average loss: 2.0601, Accuracy: 253.0/800 (31.62%)
+
+
+After epoch 9 - Train set: Average loss: 1.7557, Accuracy: 9736.0/4200 (231.81%)
+
+
+After epoch 10 - Test set: Average loss: 2.0591, Accuracy: 244.0/800 (30.50%)
+
+
+After epoch 10 - Train set: Average loss: 1.7413, Accuracy: 9730.0/4200 (231.67%)
+
+
+After epoch 11 - Test set: Average loss: 2.0562, Accuracy: 242.0/800 (30.25%)
+
+
+After epoch 11 - Train set: Average loss: 1.7308, Accuracy: 9779.0/4200 (232.83%)
+
+
+After epoch 12 - Test set: Average loss: 2.0470, Accuracy: 244.0/800 (30.50%)
+
+
+After epoch 12 - Train set: Average loss: 1.7331, Accuracy: 9684.0/4200 (230.57%)
+
+
+After epoch 13 - Test set: Average loss: 2.0399, Accuracy: 247.0/800 (30.88%)
+
+
+After epoch 13 - Train set: Average loss: 1.7270, Accuracy: 9763.0/4200 (232.45%)
+
+
+After epoch 14 - Test set: Average loss: 2.0280, Accuracy: 243.0/800 (30.38%)
+
+
+After epoch 14 - Train set: Average loss: 1.7284, Accuracy: 9756.0/4200 (232.29%)
+
+
+After epoch 15 - Test set: Average loss: 2.0253, Accuracy: 249.0/800 (31.12%)
+
+
+After epoch 15 - Train set: Average loss: 1.7198, Accuracy: 9733.0/4200 (231.74%)
+
+
+After epoch 16 - Test set: Average loss: 2.0557, Accuracy: 231.0/800 (28.88%)
+
+
+After epoch 16 - Train set: Average loss: 1.7226, Accuracy: 9667.0/4200 (230.17%)
+
+
+After epoch 17 - Test set: Average loss: 2.0075, Accuracy: 239.0/800 (29.88%)
+
+
+After epoch 17 - Train set: Average loss: 1.7237, Accuracy: 9654.0/4200 (229.86%)
+
+
+After epoch 18 - Test set: Average loss: 2.0486, Accuracy: 244.0/800 (30.50%)
+
+
+After epoch 18 - Train set: Average loss: 1.7131, Accuracy: 9790.0/4200 (233.10%)
+
+
+After epoch 19 - Test set: Average loss: 2.0267, Accuracy: 238.0/800 (29.75%)
+
+
+After epoch 19 - Train set: Average loss: 1.7162, Accuracy: 9772.0/4200 (232.67%)
+
+
+After epoch 20 - Test set: Average loss: 2.0138, Accuracy: 240.0/800 (30.00%)
+
+
+After epoch 20 - Train set: Average loss: 1.7192, Accuracy: 9663.0/4200 (230.07%)
+
+
+After epoch 21 - Test set: Average loss: 2.0236, Accuracy: 241.0/800 (30.12%)
+
+
+After epoch 21 - Train set: Average loss: 1.7233, Accuracy: 9610.0/4200 (228.81%)
+
+
+After epoch 22 - Test set: Average loss: 2.0275, Accuracy: 240.0/800 (30.00%)
+
+
+After epoch 22 - Train set: Average loss: 1.7167, Accuracy: 9773.0/4200 (232.69%)
+
+Epoch 00023: reducing learning rate of group 0 to 1.0000e-03.
+
+After epoch 23 - Test set: Average loss: 1.9201, Accuracy: 244.0/800 (30.50%)
+
+
+After epoch 23 - Train set: Average loss: 1.6504, Accuracy: 10215.0/4200 (243.21%)
+
+
+After epoch 24 - Test set: Average loss: 1.9202, Accuracy: 244.0/800 (30.50%)
+
+
+After epoch 24 - Train set: Average loss: 1.6438, Accuracy: 10417.0/4200 (248.02%)
+
+
+After epoch 25 - Test set: Average loss: 1.9142, Accuracy: 238.0/800 (29.75%)
+
+
+After epoch 25 - Train set: Average loss: 1.6458, Accuracy: 10397.0/4200 (247.55%)
+
+
+After epoch 26 - Test set: Average loss: 1.9170, Accuracy: 247.0/800 (30.88%)
+
+
+After epoch 26 - Train set: Average loss: 1.6444, Accuracy: 10343.0/4200 (246.26%)
+
+
+After epoch 27 - Test set: Average loss: 1.9187, Accuracy: 236.0/800 (29.50%)
+
+
+After epoch 27 - Train set: Average loss: 1.6467, Accuracy: 10353.0/4200 (246.50%)
+
+
+After epoch 28 - Test set: Average loss: 1.9173, Accuracy: 240.0/800 (30.00%)
+
+
+After epoch 28 - Train set: Average loss: 1.6389, Accuracy: 10415.0/4200 (247.98%)
+
+
+After epoch 29 - Test set: Average loss: 1.9152, Accuracy: 238.0/800 (29.75%)
+
+
+After epoch 29 - Train set: Average loss: 1.6431, Accuracy: 10399.0/4200 (247.60%)
+
+
+After epoch 30 - Test set: Average loss: 1.9167, Accuracy: 242.0/800 (30.25%)
+
+
+After epoch 30 - Train set: Average loss: 1.6432, Accuracy: 10436.0/4200 (248.48%)
