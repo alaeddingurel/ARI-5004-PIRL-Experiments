@@ -2,7 +2,6 @@
 
 # Self-Supervised Learning with PIRL: Reproduction Instructions
 
-
 This repository contains the implementation of the paper "Self-Supervised Learning of Pretext-Invariant Representations" by Ishan Misra and Laurens van der Maaten. The goal is to reproduce the experiment results presented in the ARI5004-Deep-Learning lecture project report.
 
 
