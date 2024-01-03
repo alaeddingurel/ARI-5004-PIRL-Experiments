@@ -6,9 +6,8 @@ This repository contains the implementation of the paper "Self-Supervised Learni
 
 ## Prerequisites
 
-- Python 3.x
-- PyTorch (installation instructions [here](https://pytorch.org/get-started/locally/))
-- Other dependencies (install via `pip install -r requirements.txt`)
+- Python 3.8.18
+- Pytorch==1.13.1+cu116(installation instructions [here](https://pytorch.org/get-started/locally/))
 
 ## Project Structure
 
