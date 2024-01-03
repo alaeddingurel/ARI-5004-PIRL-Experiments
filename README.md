@@ -56,7 +56,7 @@ We present the experiment results along with graphical representations for bet t
 <br>
 
 <p align="center">
-  <img src="https://github.com/alaeddingurel/ARI-5004-PIRL-Experiments/blob/main/images/graph_pirl_resnet.png" width="500">
+  <img src="https://github.com/alaeddingurel/ARI-5004-PIRL-Experiments/blob/main/images/pirl_accuracy.png" width="500">
   
 </p>
 Graph 1: PIRL Task Loss Graph. The graph illustrates the progress of our model in learning the Jigsaw task across 50 epochs. The PIRL methodology is effective in capturing the semantic information required for the pretext task.
